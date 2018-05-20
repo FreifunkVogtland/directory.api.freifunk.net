@@ -393,6 +393,7 @@
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
 	"treuchtlingen" : "https://netmon.freifunk-treuchtlingen.de/api/community.php",
 	"treuen" : "https://mapdata.freifunk-vogtland.net/ffapi-TR.json",
+	"triebel_vogtland" : "https://mapdata.freifunk-vogtland.net/ffapi-TRI.json",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "https://raw.githubusercontent.com/Freifunk-Troisdorf/ff-api/master/ffapi.json",
 	"tuellingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=T%C3%BCllingen&country=DE&community=ff3l-loe",
