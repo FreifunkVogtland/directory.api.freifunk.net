@@ -132,6 +132,7 @@
 	"grimma" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkGrimma-api.json",
 	"gronau" : "https://nodeapi.vfn-nrw.de/index.php/get/community/1/format/ffapi",
 	"grossbasel" : "https://map.freifunk-3laendereck.net/api/community.php?city=Grossbasel&country=CH&community=ff3l-3land",
+	"gruenbach_vogtland" : "https://mapdata.freifunk-vogtland.net/ffapi-GB.json",
 	"guennetsmaettle" : "https://map.freifunk-3laendereck.net/api/community.php?city=G%C3%BCnnetsm%C3%A4ttle&country=DE&community=ff3l-hoho",
 	"guetersloh" : "https://stats.guetersloh.freifunk.net/ffgt-api.json",
 	"gummersbach" : "https://nodeapi.vfn-nrw.de/index.php/get/community/43/format/ffapi",
