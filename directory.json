@@ -18,6 +18,7 @@
 	"badreichenhall" : "https://raw.githubusercontent.com/FreifunkFranken/freifunkfranken-community/master/badreichenhall.json",
 	"badsalzuflen": "http://service.freifunk-lippe.de/freifunk/ffapi.json",
 	"bad-bellingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Bad+Bellingen&country=DE&community=ff3l-loe",
+	"bad-brambach" : "https://mapdata.freifunk-vogtland.net/ffapi-BB.json",
 	"bad-nauheim" : "https://raw.githubusercontent.com/kurfunk/ffapi/master/Kurfunk-api.json",
 	"bad-krozingen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Bad+Krozingen&country=DE&community=ff3l-loe",
 	"bad-pyrmont": "http://update.freifunk-nordlippe.de/ffapi_badpyrmont.json",
