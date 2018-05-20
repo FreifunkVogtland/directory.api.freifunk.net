@@ -86,6 +86,7 @@
 	"eichigt" : "https://mapdata.freifunk-vogtland.net/ffapi-EIC.json",
 	"einbeck" : "http://vpn1.freifunk-einbeck.de/FreifunkEinbeck-api.json",
 	"ellefeld" : "https://mapdata.freifunk-vogtland.net/ffapi-ELL.json",
+	"elsterberg" : "https://mapdata.freifunk-vogtland.net/ffapi-ELS.json",
 	"eltville" : "https://www.freifunk-rtk.de/ffapi_rtk.json",
 	"emskirchen" : "https://netmon.freifunk-emskirchen.de/api/community.php",
 	"engelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/42/format/ffapi",
