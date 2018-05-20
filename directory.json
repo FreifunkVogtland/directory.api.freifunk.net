@@ -271,6 +271,7 @@
 	"murg" : "https://map.freifunk-3laendereck.net/api/community.php?city=Murg&country=DE&community=ff3l-hoho",
 	"mutschellen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Mutschellen&country=CH&community=ff3l",
 	"nettetal" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/nettetal.json",
+	"netzschkau" : "https://mapdata.freifunk-vogtland.net/ffapi-N.json",
 	"neuenburg-am-rhein" : "https://map.freifunk-3laendereck.net/api/community.php?city=Neuenburg+am+Rhein&country=DE&community=ff3l-loe",
 	"neuendettelsau" : "https://netmon.freifunk-neuendettelsau.de/api/community.php",
 	"neuenrade" : "https://raw.githubusercontent.com/freifunk-mk/ff-api/master/neuenrade.json",
