@@ -307,6 +307,7 @@
 	"overath" : "http://api.gl.wupper.freifunk-rheinland.net/ovr.json",
 	"quedlinburg" : "http://harz.freifunk.net/api.qlb.json",
 	"paderborn" : "https://api.ffho.net/ffapi-pad.json",
+	"pausa-muehltroff" : "https://mapdata.freifunk-vogtland.net/ffapi-PMF.json",
 	"pinneberg" : "https://pinneberg.freifunk.net/ffapi.json",
 	"plauen" : "https://mapdata.freifunk-vogtland.net/ffapi-PL.json",
 	"ploen" : "https://nord.freifunk.net/api/ploen-api.json",
