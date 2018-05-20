@@ -420,6 +420,7 @@
 	"weimarnetz" : "https://weimarnetz.de/weimarnetz.json",
 	"weinstadt" : "http://freifunk-weinstadt.de/TJxlxN0f",
 	"weischlitz" : "https://mapdata.freifunk-vogtland.net/ffapi-WEI.json",
+	"werda" : "https://mapdata.freifunk-vogtland.net/ffapi-WER.json",
 	"werl" : "http://map.freifunk-moehne.de/api/werl.json",
 	"wermelskirchen" : "https://nodeapi.vfn-nrw.de/index.php/get/community/3/format/ffapi",
 	"werne" : "https://raw.githubusercontent.com/ffdo/ffapi/master/werne.json",
